@@ -1,0 +1,2 @@
+# QRcodeReader
+android
